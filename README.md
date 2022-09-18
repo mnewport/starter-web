@@ -12,7 +12,7 @@ This is example is to show different parts of the Git repository and various com
 
 As stated aboe, the main purpose is to provide simple eamples for Git training demos.
 
-Adding text to the purpose for rebasing.
+Adding text to the purpose for rebasing, then more changes from myfeature branch too.
 
 ## Deployment
 
