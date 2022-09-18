@@ -12,6 +12,8 @@ This is example is to show different parts of the Git repository and various com
 
 As stated aboe, the main purpose is to provide simple eamples for Git training demos.
 
+Adding text to the purpose for rebasing.
+
 ## Deployment
 
 This is a smimple web project, deployment can be on any web server or even local.
