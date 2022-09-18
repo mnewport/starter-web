@@ -17,3 +17,7 @@ As stated aboe, the main purpose is to provide simple eamples for Git training d
 This is a smimple web project, deployment can be on any web server or even local.
 
 ## How To Contribute
+
+### Copyright
+
+2022 Git. Training.
